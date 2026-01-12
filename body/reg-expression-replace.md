@@ -7,3 +7,4 @@
 - Search: `(?<=[\u4e00-\u9fa5]),|(?=[\u4e00-\u9fa5]),`
 - Replace with: `,` 
 - 扩展：按照类似的方式可以替换 `:`，`;` 等
+- 搜狗短语：`banjiaodouhao`
